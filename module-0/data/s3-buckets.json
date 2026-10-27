@@ -1,0 +1,31 @@
+{
+  "000000000000/my-second-bucket" : {
+    "name" : "my-second-bucket",
+    "creationDate" : "2026-10-27T16:00:25.496570063Z",
+    "versioningStatus" : null,
+    "loggingConfiguration" : null,
+    "tags" : { },
+    "notificationConfiguration" : null,
+    "objectLockEnabled" : false,
+    "defaultRetention" : null,
+    "policy" : null,
+    "corsConfiguration" : null,
+    "lifecycleConfiguration" : null,
+    "transitionDefaultMinimumObjectSize" : null,
+    "acl" : null,
+    "encryptionConfiguration" : null,
+    "replicationConfiguration" : null,
+    "publicAccessBlockConfiguration" : null,
+    "publicAccessBlockDeleted" : false,
+    "ownershipControlsConfiguration" : null,
+    "requestPaymentPayer" : null,
+    "accelerateStatus" : null,
+    "region" : "us-east-1",
+    "websiteConfiguration" : null,
+    "metricsConfigurations" : null,
+    "intelligentTieringConfigurations" : null,
+    "analyticsConfigurations" : null,
+    "inventoryConfigurations" : null,
+    "versioningEnabled" : false
+  }
+}
