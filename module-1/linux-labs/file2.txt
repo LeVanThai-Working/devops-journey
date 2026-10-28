@@ -1,0 +1,3 @@
+hello devops, file 1
+I used '>>' to write more contents to this file 1
+I used 'cp' to copy the content in file 1 into file 2

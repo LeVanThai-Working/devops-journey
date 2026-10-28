@@ -1,0 +1,6 @@
+2026-10-27 10:00:01 INFO  user=alice action=login ip=10.0.0.5
+2026-10-27 10:00:05 ERROR user=bob action=payment ip=10.0.0.7 code=500
+2026-10-27 10:00:09 INFO  user=carol action=login ip=10.0.0.5
+2026-10-27 10:01:12 ERROR user=alice action=upload ip=10.0.0.5 code=503
+2026-10-27 10:02:30 WARN  user=bob action=login ip=10.0.0.7
+
